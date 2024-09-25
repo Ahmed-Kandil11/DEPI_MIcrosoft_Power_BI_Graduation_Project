@@ -1,4 +1,11 @@
-# Brazilian E-Commerce Data Analysis Using Olist Dataset
+# Olist - Brazilian Marketplace
+
+## Project Discussion Video
+
+[![Watch the video](https://th.bing.com/th/id/OIP.55yU7wqOBxsxmlqmssqdhAHaEP?rs=1&pid=ImgDetMain)](https://drive.google.com/file/d/1O01uVNjllYw-BtC-tjDym7Nfr5iV55Zy/view?usp=drive_link)
+
+Click on the image above to watch the discussion video of this project.
+
 
 ## Project Overview
 
