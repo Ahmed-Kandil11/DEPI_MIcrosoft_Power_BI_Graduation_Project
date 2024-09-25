@@ -32,7 +32,6 @@ The dataset includes the following key tables:
 - **Power BI**: Used for data cleaning, transformation, and visualization.
 - **Power Query**: For data merging and preprocessing.
 - **DAX**: Used for creating custom measures and calculated columns.
-- **Python (Optional)**: For advanced analysis and data manipulation.
 
 ## Data Cleaning Process
 
@@ -69,4 +68,4 @@ The analysis includes several key visualizations, such as:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/brazilian-ecommerce-data-analysis.git
+   git clone https://github.com/ahmed1magdy2/brazilian-ecommerce-data-analysis.git
