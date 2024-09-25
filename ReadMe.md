@@ -68,4 +68,4 @@ The analysis includes several key visualizations, such as:
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/ahmed1magdy2/DEPI_MIcrosoft_Power_BI_Graduation_Project
+   git clone https://github.com/ahmed1magdy2/DEPI_MIcrosoft_Power_BI_Graduation_Project
